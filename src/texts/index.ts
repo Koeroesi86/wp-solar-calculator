@@ -25,7 +25,7 @@ const texts = {
   'emissions_trees.primary': '{value} fányi',
   'emissions_trees.secondary': 'CO<sub>2</sub> megkötés',
   'emissions_yearly.primary': '{value} kWh',
-  'emissions_yearly.secondary': 'éves teljesítmény',
+  'emissions_yearly.secondary': 'éves fogyasztás',
   'summary.price': 'Várható bruttó költség',
   'summary.capacity': 'Rendszer teljesítmény',
 };

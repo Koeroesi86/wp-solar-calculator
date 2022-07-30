@@ -88,7 +88,7 @@ const Consumption: FC<{ result: CalculatorResults; baseUrl: string; }> = ({ resu
       <EmissionBlock
         primary={<FormattedMessage id="emissions_yearly.primary" values={{ value: result.yearlyKWH }} />}
         secondary={<FormattedMessage id="emissions_yearly.secondary" />}
-        icon={`${baseUrl}/images/solar_panel_icon.png`}
+        icon={`${baseUrl}/images/washing_machine_icon.png`}
       />
     </ConsumptionWrapper>
   );
