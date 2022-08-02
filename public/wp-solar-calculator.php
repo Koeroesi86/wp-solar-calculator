@@ -2,7 +2,7 @@
 /*
 Plugin Name:  Solar Calculator
 Description:  Solar calculator for WordPress: [solar_calculator]
-Version:      1.0.6
+Version:      1.0.7
 Author:       Kőrösi Krisztián
 Author URI:   https://chris.koro.si
 License:      GPL2
@@ -14,7 +14,7 @@ function wpsolarscripts() {
         'wp-solar-calculator-script',
         esc_url(plugins_url('static/bundle.js', __FILE__)),
         array (),
-        '1.0.6',
+        '1.0.7',
         false
     );
 
